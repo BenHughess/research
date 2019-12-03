@@ -48,10 +48,10 @@ Recommended versions:
 1. Make sure you install the latest version of the Anaconda 3 distribution. To do this you can follow the install and update instructions found on this link: https://www.anaconda.com/download/#mac
 2. Launch a terminal
 3. Create a New Conda Environment. From terminal: ```conda create -n <env name> python=3.6 anaconda``` accept all the requests to install.
-4. Now activate the environment with ```source activate <env name>```.
+4. Now activate the environment with ```source activate <env name>```...
 5. From Terminal: go to the directory where you have saved the file, example: cd Desktop/research/.
 6. Install Python requirements, by running the command: ```pip install -r requirements.txt```
-7. (Optional) Continue to Chapter-specific Installation 
+7. (Optional) Continue to Chapter-specific Installation
 
 ### Installation for Windows
 
@@ -68,11 +68,11 @@ Recommended versions:
 
 We will create a symlink inside each of the Chapters for ease of dataset changes. You may change the symlink of `official_data` to your own dataset rather than using the 2 year sample; the format follows Tick Data LLC.
 
-Create a symbolic link inside the Chapter folder to where you saved the official data:
+Create a symbolic link inside the Chapter folder to where you saved the official data:.
 
 ``` cd Chapter3; ln -s ../Sample-Data official_data ```
 
 ## Additional Research Repo
-BlackArbsCEO has a great repo based on de Prado's research. It covers many of the questions at the back of every chapter and was the first source on Github to do so. It has also been a good source of inspiration for our research.
-
+BlackArbsCEO has a great repo based on de Prado's research. It covers many of the questions at the back of every chapter and was the first source on Github to do so. It has also been a good source of inspiration for our research..
+.
 * [Adv Fin ML Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
