@@ -8,4 +8,4 @@ This folder contains the notebook that provides the worked solutions to the exer
 2. `ef3m_test.ipynb` - test cases for the EF3M algorithm
 3. `EF3M` - small library containing the implementation of EF3M
     1. `ef3m.py` - Python file containing the class and methods
-    2. `__init__.py` - init file for `ef3m.py`
+    2. `__init__.py` - init file . for `ef3m.py`
