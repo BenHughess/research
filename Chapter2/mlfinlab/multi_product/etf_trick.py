@@ -3,6 +3,8 @@ This module contains class for ETF trick generation and futures roll function, d
 Marcos Lopez de Prado book 'Advances in Financial Machine Learning'
 ETF trick class can generate ETF trick series either from .csv files or from in memory pandas
 data frames
+
+Author Ben Hughes
 """
 
 # Imports
